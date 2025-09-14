@@ -1,0 +1,20 @@
+.carousel-item img {
+    max-width: 400px;
+    height: 300px;
+    border-radius: 0.5rem;
+    object-fit: cover;
+    width: 290px;
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+
+}
+
+.carousel-container {
+   margin-top: 20px;
+   margin-bottom: 20px;
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+    max-width: 300px;
+}
